@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danh Nguyen</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bfffamilk" alt="bfffamilk" /></a> </p>
-
 - 📫 How to reach me **bfffamilk@gmail.com**
 
 - 📄 Know about my experiences [Junior Programmer](Junior Programmer)
