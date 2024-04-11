@@ -54,8 +54,13 @@
 &nbsp;&nbsp; <!-- Blank-->
 </p>
 
-
-<p></p>
+<h3 align="left">Support:</h3>
+<p>
+<a href="https://ko-fi.com/"> 
+<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="BFFFamilk" /></a>
+&nbsp;&nbsp; <!-- Blank-->
+</p>
+<br><br>
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </div>
 <h3 align="center">⚡ STATISTICS ⚡</h3>
