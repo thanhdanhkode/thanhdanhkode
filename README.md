@@ -8,12 +8,12 @@
 
 <h2 align="center">⚡ STATS ⚡</h2>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BFFFamilk&show_icons=true&locale=en&theme=nightowl" alt="BFFFamilk" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BFFFamilk&theme=nightowl" alt="BFFFamilk" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BFFFamilk&show_icons=true&locale=en&theme=nightowl" alt="BFFFamilk" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BFFFamilk&theme=nightowl" alt="BFFFamilk" />
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=BFFFamilk&theme=tokyonight" alt="BFFFamilk" /> </a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img height="100em" src="https://github-profile-trophy.vercel.app/?username=BFFFamilk&theme=tokyonight" alt="BFFFamilk" /> </a> 
 </p>
 
 <div> <a href="https://github.com/BFFFamilk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
