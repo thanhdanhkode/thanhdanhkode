@@ -61,9 +61,9 @@
 <h3 align="center">⚡ STATISTICS ⚡</h3>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BFFFamilk&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BFFFamilk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BFFFamilk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BFFFamilk&theme=2077" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BFFFamilk&theme=nightowl" height="180em" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BFFFamilk&theme=nightowl" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BFFFamilk&theme=nightowl" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BFFFamilk&theme=nightowl" height="180em" />
 </div>
 
