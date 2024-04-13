@@ -63,7 +63,7 @@
 <br><br>
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </div>
-<h3 align="center">⚡ STATISTICS ⚡</h3>
+<h2 align="center">⚡ STATISTICS ⚡</h2>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BFFFamilk&theme=nightowl" height="180em" />
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BFFFamilk&theme=nightowl" height="180em" /> -->
