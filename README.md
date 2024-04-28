@@ -22,43 +22,44 @@
 <p align="left">
 <a href="https://fb.com/BFFFamilk.VN" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="BFFFamilk.VN" height="30" width="40" /></a>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <a href="https://discord.gg/1152234656553500762" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="1152234656553500762" height="30" width="40" /></a>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40" pading=10/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-&nbsp;&nbsp; <!-- Blank-->
-</p>
+&nbsp;&nbsp; 
+</p> -->
 
 <h3 align="left">Support:</h3>
 <p>
 <a href="https://ko-fi.com/"> 
 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="BFFFamilk" /></a>
-&nbsp;&nbsp; <!-- Blank-->
+&nbsp;&nbsp; 
 </p>
 <br><br>
 
