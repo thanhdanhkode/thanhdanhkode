@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm BFFFamilk</h1>
 <h3 align="center">A free coder, doing some fun stuff</h3>
 
-- 🔭 I’m currently working on **Starfrost**
+- 🔭 I’m currently working on **Loomnode**
 
-- 🌱 I’m currently learning **DSA, C++, etc...**
+- 🌱 I’m currently learning **DSA, C++, Embedded Engineer, etc...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
